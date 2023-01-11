@@ -1,0 +1,41 @@
+body {
+  font-family: Tahoma, Geneva, Verdana, sans-serif;
+}
+
+#layers {
+  position: relative;
+  outline: 1px solid black;
+}
+
+#layers canvas {
+  position: absolute;
+  top: 0;
+  left: 0;
+}
+
+select, button, .button {
+  font-size: 14px;
+}
+
+.controls-panel {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+}
+
+.controls-panel .tools {
+  display: flex;
+}
+
+.controls-panel button,
+.controls-panel .button {
+  margin: 0 4px;
+}
+
+#version {
+  position: absolute;
+  top: 0;
+  right: 0;
+  padding: 6px;
+  font-size: 12px;
+}
