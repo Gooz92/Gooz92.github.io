@@ -4,6 +4,8 @@ It's going to be turn-based global strategy that runs in browser in the future. 
 
 Basic idea and game mechanics borrowed from civilization game series but there is no intention to create exact clone of any version of civilization. It's going to something inspired or influenced by civilization.
 
+[Try latest version](v0.2.0)
+
 ## Current Development State
 
 Game is in early development state. There is only "sandbox" mode for testing and demonstrating basic game mechanics. The main focus for now is implementing and polishing game core engine and mechanics. So UI/UX and graphics might be awful for now. Map view are top-down with schemantic objects representations.
@@ -14,6 +16,6 @@ In this mode allowed to do things which should be restricted by rules in game mo
 
 ## Links
 
-* [Latest version](v0.1.3)
 * [Technical details](technical-details.md)
 * [Versions history](versions-history.md)
+* [Versioning](versioning.md)

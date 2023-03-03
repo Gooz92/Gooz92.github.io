@@ -4,9 +4,7 @@ Short description of *functional* changes introduced in each version.
 
 ## v0.1.0, v0.1.1
 
-These version are lost. I just forgot from which commits they were builded. They were
-never be released anywhere. Not a big loss because released v0.1.2 includes almost same
-features plus critical bugfixes. As I remember...
+These version are lost. I just forgot from which commits they were builded. They were never be released anywhere. Not a big loss because released v0.1.2 includes almost same features plus critical bugfixes. As I remember...
 
 ## [v0.1.2](v0.1.2) (2022-07-03)
 
@@ -25,3 +23,17 @@ features plus critical bugfixes. As I remember...
 * Label "expansion cost" added
 * Documentation page added
 * Placing terrain on tile with city fixed
+
+## [v0.2.0](v0.2.0) (2023-03-10)
+
+### Breaking Changes
+* saves files from version 0.1.x are not supported
+
+### Features
+* First units: warrior, settler, worker. Color is only one difference. There are no unit abilities. Unit movement without pathfinding. Unit can move only to adjacent tile. Movement loops and chains.
+* Swapped tiles detection. No possibility to swap. Just show that tile can be swapped by hovering over it.
+* Citizen displayed on the map only if city selected.
+* New icons for city and citizen
+* Tile size increased to 32 px
+* New algorithm for choosing next tile to expand with more sophisticated conflicts resolving.
+* Possibility to create world with given size.
