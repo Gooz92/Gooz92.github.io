@@ -14,6 +14,6 @@ In this mode allowed to do things which should be restricted by rules in game mo
 
 ## Links
 
-* [Latest version](v0.1.2)
+* [Latest version](v0.1.3)
 * [Technical details](technical-details.md)
 * [Versions history](versions-history.md)

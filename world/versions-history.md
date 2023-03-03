@@ -18,7 +18,7 @@ features plus critical bugfixes. As I remember...
 * Saves
 * Place terrain (grassland and steppe)
 
-## [v0.1.3](v0.1.3) (not yet released)
+## [v0.1.3](v0.1.3) (2023-03-03)
 
 * Min distance between cities decreased from 9 to 8 (4 axial tiles).
 * Tiles expansion cost calculation improved
