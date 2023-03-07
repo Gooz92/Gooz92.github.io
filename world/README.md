@@ -1,6 +1,6 @@
 # About the Game
 
-It's going to be turn-based global strategy that runs in browser. Probably will be packed via [electron](https://www.electronjs.org/) in the future. Game works completely in browser. There is no server part at all for now. There is intension to proceed supporting "offline" mode in the future.
+It's going to be turn-based global strategy that runs in browser in the future. There is no server part at all for now. There is intension to proceed supporting "offline" mode in the future. Probably will be packed via [electron](https://www.electronjs.org/)
 
 Basic idea and game mechanics borrowed from civilization game series but there is no intention to create exact clone of any version of civilization. It's going to something inspired or influenced by civilization.
 
