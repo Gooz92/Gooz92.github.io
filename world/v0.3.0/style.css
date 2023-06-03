@@ -1,0 +1,63 @@
+body {
+  font-family: Tahoma, Geneva, Verdana, sans-serif;
+}
+
+#layers {
+  position: relative;
+  outline: 1px solid black;
+}
+
+#layers canvas {
+  position: absolute;
+  top: 0;
+  left: 0;
+}
+
+select,
+button {
+  font-size: 14px;
+}
+
+.bottom-panel {
+  padding-top: 6px;
+}
+
+.controls-panel,
+.controls-panel .tools {
+  display: flex;
+}
+
+.controls-panel {
+  flex-direction: row;
+  align-items: center;
+}
+
+.controls-panel button {
+  margin: 0 4px;
+}
+
+#version, #info {
+  position: fixed;
+  margin: 6px;
+}
+
+#version {
+  bottom: 0;
+  right: 0;
+  font-size: 12px;
+}
+
+#info {
+  top: 0;
+  right: 0;
+  font-size: 14px;
+  width: 18px;
+  height: 18px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  border: 1px solid #39d;
+  color: #39d;
+  border-radius: 50%;
+  text-decoration: none;
+}

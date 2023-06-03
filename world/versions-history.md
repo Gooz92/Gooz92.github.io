@@ -37,3 +37,20 @@ These version are lost. I just forgot from which commits they were builded. They
 * Tile size increased to 32 px
 * New algorithm for choosing next tile to expand with more sophisticated conflicts resolving.
 * Possibility to create world with given size.
+
+## [v0.3.0](v0.3.0) (2023-07-03)
+
+### Fixes
+* Border viewport tile info not showing after mouse leaving (minor)
+* Now checkboxes toggled by clicking on label (minor) 
+
+### Features
+* Path following. Now unit can automatically move not only to adjacent tile.
+
+### Known Issues
+* Units collision handling is not ideal.
+  - One of collided units still will be moved to target tile. Others moves will be cancelled.
+  - If unit move to occupied tile movement cancellation can occurs too early.
+  - Collision can be handled differently after loading.
+* There is no path smoothing
+* Path drawing is ugly
