@@ -54,3 +54,19 @@ These version are lost. I just forgot from which commits they were builded. They
   - Collision can be handled differently after loading.
 * There is no path smoothing
 * Path drawing is ugly
+
+## [v0.3.1](v0.3.1) (2023-07-08)
+
+### Fixes
+* Disable tools dropdown when manually unselected
+
+### Features
+* Remove unit by pressing `delete` (win), `fn+backspace` (mac)
+
+### Other Changes
+* Order of units names in dropdown changed. Now they are sorted by "cost": worker, warrior, settler
+
+## v0.4.0 (~2023-07-15)
+
+### Features
+* Building units by city
