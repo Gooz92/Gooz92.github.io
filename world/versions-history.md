@@ -66,6 +66,11 @@ These version are lost. I just forgot from which commits they were builded. They
 ### Other Changes
 * Order of units names in dropdown changed. Now they are sorted by "cost": worker, warrior, settler
 
+## [v0.3.2](v0.3.2) (2023-07-11)
+
+### Fixes
+* Error in key pressing handling prevented
+
 ## v0.4.0 (~2023-07-15)
 
 ### Features
