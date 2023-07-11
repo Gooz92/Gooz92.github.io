@@ -28,7 +28,6 @@ Lear more: https://semver.org/
 ### Updated when:
 * Bug fix delivered
 * Minor UI improvements/changes
-* Introduced features with high probability will not be changed in nearest future
 
 ## Letter versions (x.y.z-a, x.y.z-b, ...)
 
