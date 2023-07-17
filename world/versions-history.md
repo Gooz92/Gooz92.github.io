@@ -71,7 +71,8 @@ These version are lost. I just forgot from which commits they were builded. They
 ### Fixes
 * Error in key pressing handling prevented
 
-## v0.4.0 (~2023-07-15)
+## [v0.4.0](v0.4.0) (~2023-07-19)
 
 ### Features
-* Building units by city
+* Building units by cities
+* UI/UX improvements
