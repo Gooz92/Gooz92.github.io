@@ -1,0 +1,97 @@
+body {
+  font-family: Tahoma, Geneva, Verdana, sans-serif;
+}
+
+#layers {
+  position: relative;
+  outline: 1px solid black;
+}
+
+#layers canvas {
+  position: absolute;
+  top: 0;
+  left: 0;
+}
+
+select {
+  /*
+    HACK for changing text-size in select for safari
+    https://stackoverflow.com/questions/503101/text-size-for-drop-down-menu-input-select-not-working-in-safari
+   */
+  border: 1px solid #bbb;
+}
+
+select,
+button {
+  font-size: 14px;
+  height: 24px;
+}
+
+.toggled-dropdown,
+.labeled-checkbox {
+  display: flex;
+  align-items: center;
+}
+
+.labeled .label {
+  padding-right: 4px;
+}
+
+.bottom-panel {
+  padding-top: 6px;
+}
+
+.top-panel {
+  padding-bottom: 4px;
+}
+
+.controls-group {
+  display: flex;
+  align-items: center;
+  padding: 6px;
+  background-color: #eee;
+  border-radius: 4px;
+  border: 1px solid #999;
+  margin: 0 6px;
+}
+
+.top-panel,
+.controls-panel {
+  display: flex;
+}
+
+.controls-panel,
+.top-panel {
+  align-items: center;
+}
+
+.controls-panel button,
+.top-panel button {
+  margin: 0 4px;
+}
+
+#version, #info {
+  position: fixed;
+  margin: 6px;
+}
+
+#version {
+  bottom: 0;
+  right: 0;
+  font-size: 12px;
+}
+
+#info {
+  top: 0;
+  right: 0;
+  font-size: 14px;
+  width: 18px;
+  height: 18px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  border: 1px solid #39d;
+  color: #39d;
+  border-radius: 50%;
+  text-decoration: none;
+}
