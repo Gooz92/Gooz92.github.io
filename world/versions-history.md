@@ -77,7 +77,7 @@ These version are lost. I just forgot from which commits they were builded. They
 * Building units by cities
 * UI/UX improvements
 
-## v0.4.1 (~2023-08-06)
+## [v0.4.1](v0.4.1) (2023-08-18)
 
 ### Features
-* Sea
+* Place sea tile
