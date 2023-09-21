@@ -81,3 +81,8 @@ These version are lost. I just forgot from which commits they were builded. They
 
 ### Features
 * Place sea tile
+
+## [v0.5.0](v0.5.0) (2023-09-21)
+
+### Features
+* Map generation
