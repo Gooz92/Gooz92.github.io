@@ -86,3 +86,15 @@ These version are lost. I just forgot from which commits they were builded. They
 
 ### Features
 * Map generation
+
+### Known Issues
+* Error in map seed validation
+* Source code is not minified
+
+## v0.5.1
+
+### Features
+* Display and save map seed
+
+### Fixed
+* Fix map seed validation
