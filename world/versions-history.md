@@ -91,7 +91,7 @@ These version are lost. I just forgot from which commits they were builded. They
 * Error in map seed validation
 * Source code is not minified
 
-## v0.5.1
+## [v0.5.1](v0.5.1) (2023-10-03)
 
 ### Features
 * Display and save map seed
