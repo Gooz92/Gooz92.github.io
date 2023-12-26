@@ -98,3 +98,17 @@ These version are lost. I just forgot from which commits they were builded. They
 
 ### Fixed
 * Fix map seed validation
+
+## [v0.5.2](v0.5.2) (2023-12-26)
+
+### Features
+* Unit icons
+
+### Changes
+* Remove units cyclic movements
+* Strict map size validation
+
+## v0.5.3 (~2023-12-26)
+
+### Features
+* Steppe tile generation
