@@ -120,7 +120,7 @@ These version are lost. I just forgot from which commits they were builded. They
 * Map seed should be in lowercase
 
 ### Misc
-* Map generation demo
+* [Map generation demo](v0.5.3/map-gen-demo.html)
 
 ## v0.5.4 (~2024-01-21)
 
