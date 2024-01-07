@@ -108,7 +108,21 @@ These version are lost. I just forgot from which commits they were builded. They
 * Remove units cyclic movements
 * Strict map size validation
 
-## v0.5.3 (~2023-12-26)
+## [v0.5.3](v0.5.3) (~2024-01-07)
 
 ### Features
-* Steppe tile generation
+* Steppe tiles generation
+
+### Fixes
+* Select none ("-") city project
+
+### Changes
+* Map seed should be in lowercase
+
+### Misc
+* Map generation demo
+
+## v0.5.4 (~2024-01-21)
+
+### Features
+* Show project selector dropdown only if city selected
