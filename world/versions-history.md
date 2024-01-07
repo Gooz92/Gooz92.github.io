@@ -108,7 +108,7 @@ These version are lost. I just forgot from which commits they were builded. They
 * Remove units cyclic movements
 * Strict map size validation
 
-## [v0.5.3](v0.5.3) (~2024-01-07)
+## [v0.5.3](v0.5.3) (2024-01-07)
 
 ### Features
 * Steppe tiles generation

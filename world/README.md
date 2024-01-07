@@ -4,7 +4,7 @@ It's going to be turn-based global strategy that runs in browser. There is no se
 
 Basic idea and game mechanics borrowed from civilization game series but there is no intention to create exact clone of any version of civilization. It's going to something inspired or influenced by civilization.
 
-[Try latest version](v0.5.2)
+[Try latest version](v0.5.3)
 
 ## Current Development State
 

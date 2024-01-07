@@ -1,0 +1,40 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Map Gen Demo</title>
+  <style>
+    body {
+      font-family: Tahoma, Geneva, Verdana, sans-serif;
+      font-size: 18px;
+    }
+
+    canvas {
+      outline: 1px solid grey;
+    }
+
+    .panel {
+      display: flex;
+      padding-bottom: 6px;
+    }
+
+    .panel > *:not(:first-child) {
+      padding-left: 4px;
+    }
+
+    .size-separator {
+      padding: 0 4px;
+    }
+
+    .error-container {
+      display: none;
+      padding-left: 4px;
+      color: #dc3545;
+    }
+  </style>
+</head>
+<body>
+<script src="map-gen-demo.js"></script>
+</body>
+</html>
