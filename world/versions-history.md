@@ -122,7 +122,13 @@ These version are lost. I just forgot from which commits they were builded. They
 ### Misc
 * [Map generation demo](v0.5.3/map-gen-demo.html)
 
-## v0.5.4 (~2024-01-21)
+## [v0.5.4](v0.5.4) (2024-03-24)
 
 ### Features
-* Show project selector dropdown only if city selected
+  * show/hide city project selector
+  * new generate world modal
+  * size of generated world
+  * filling of empty world
+
+### Fixes
+  * do not reset viewport position after terrain placement
