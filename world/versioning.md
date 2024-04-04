@@ -16,9 +16,9 @@ Lear more: https://semver.org/
 ## Minor
 
 ### Updated when:
-* New feature added
-* Some mechanic changed
-* There are changes in serialization format
+* New mechanic added
+* Mechanic significantly changed. Probably, broken backward compatibility.
+* There are changes in serialization format (no applicable for < 1.0.0)
 
 ### Should not be updated when:
 * No functional changes introduced
@@ -27,7 +27,8 @@ Lear more: https://semver.org/
 
 ### Updated when:
 * Bug fix delivered
-* Minor UI improvements/changes
+* Improvements of existing mechanic
+* UI improvements/changes
 
 ## Letter versions (x.y.z-a, x.y.z-b, ...)
 

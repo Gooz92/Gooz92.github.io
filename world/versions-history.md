@@ -132,3 +132,11 @@ These version are lost. I just forgot from which commits they were builded. They
 
 ### Fixes
   * do not reset viewport position after terrain placement
+
+## [v0.5.5](v0.5.5) (2024-04-04)
+
+### Features
+  * Ability to remove city
+
+### Fixes
+  * Prevent to show blank viewport after tab inactivity

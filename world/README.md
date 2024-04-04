@@ -10,7 +10,7 @@ Basic idea and game mechanics borrowed from civilization game series but there i
 
 Game is in early development state. The main focus for now is implementing and polishing game core engine and mechanics. So UI/UX and graphics might be awful for now. Map view are top-down with schemantic objects representations.
 
-There is only "sandbox" mode for testing and demonstrating basic game mechanics. In this mode allowed to do things which will be restricted by rules in game mode. For example, place game object on any tile in any moment.
+There is only "sandbox" mode for testing and demonstrating basic game mechanics. In this mode allowed to do things which will be restricted by rules in game mode. For example, place/remove game object on any tile in any moment.
 
 ## Links
 
