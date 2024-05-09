@@ -2,7 +2,7 @@
 
 Short description of *functional* changes introduced in each version.
 
-## [v0.6.0](v.0.6.0) (2024-05-09)
+## [v0.6.0](v0.6.0) (2024-05-09)
 
 ### Features
   * Barbarians
