@@ -2,6 +2,13 @@
 
 Short description of *functional* changes introduced in each version.
 
+## [v0.6.0](v.0.6.0) (2024-05-09)
+
+### Features
+  * Barbarians
+  * Combat system
+  * City pillaging
+
 ## [v0.5.5](v0.5.5) (2024-04-04)
 
 ### Features
