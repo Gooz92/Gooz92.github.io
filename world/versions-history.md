@@ -6,7 +6,7 @@ Short description of *functional* changes introduced in each version.
 
 ## Features
   * Combat shaking animation
-  * Form html element used in created new world modal. New world can be created by pressing `Enter`.
+  * Form html element used in `create new world` modal. New world can be created by pressing `Enter`.
 
 ## [v0.6.0](v0.6.0) (2024-05-09)
 
