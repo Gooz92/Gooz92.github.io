@@ -2,11 +2,19 @@
 
 Short description of *functional* changes introduced in each version.
 
+## [v0.6.2](v0.6.2) (2024-06-03)
+
+### Fixes
+  * Combat shaking animation now works after viewport move
+  * Disallow possibility to cancel opponents move by targeting to same tile
+  * Make tile occupied by enemy impassable
+  * Make city tile impassable for barbarians
+
 ## [v0.6.1](v0.6.1) (2024-05-21)
 
-## Features
+### Features
   * Combat shaking animation
-  * Form html element used in `create new world` modal. New world can be created by pressing `Enter`.
+  * Form html element used in `create new world` modal. New world can be created by pressing `Enter`
 
 ## [v0.6.0](v0.6.0) (2024-05-09)
 
