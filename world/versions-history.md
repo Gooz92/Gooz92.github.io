@@ -2,6 +2,14 @@
 
 Short description of *functional* changes introduced in each version.
 
+## [v0.6.3](v0.6.3) (2024-06-16)
+
+### Features
+  * UI styling
+
+### Fixes
+  * Remove native browser validation in `Create World Modal`. (Map size was affected)
+  
 ## [v0.6.2](v0.6.2) (2024-06-03)
 
 ### Fixes
