@@ -2,7 +2,7 @@
 
 Short description of *functional* changes introduced in each version.
 
-## [v0.6.4](v0.6.4) (2024-07-21)
+## [v0.6.4](v0.6.4) (2024-07-23)
 
 ### Features
   * Military units healing
