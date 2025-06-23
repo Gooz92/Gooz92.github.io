@@ -1,0 +1,35 @@
+* {
+  font-family: Tahoma, Geneva, Verdana, sans-serif;
+}
+
+.field {
+  display: flex;
+  flex-wrap: wrap;
+  cursor: default;
+}
+
+.field div {
+  width: 32px;
+  height: 32px;
+  font-size: 32px;
+  text-align: center;
+}
+
+.field div.selected {
+  font-weight: bold;
+}
+
+.faction-0 {
+  color: red;
+}
+
+.faction-1 {
+  color: blue;
+}
+
+#version {
+  position: fixed;
+  bottom: 0;
+  right: 0;
+  margin: 6px;
+}
