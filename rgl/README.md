@@ -1,5 +1,13 @@
 # Versions
 
+## [v0.0.1](v0.0.1) (2025-06-26)
+
+### Release Goal
+Ensure the player receives visual feedback by triggering a shaking animation on the unit when it is attacked.
+
+### Features
+- Shaking animation on attacked unit
+
 ## [v0.0.0](v0.0.0) (2025-06-23)
 
 ### Release Goal
