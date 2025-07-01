@@ -1,5 +1,13 @@
 # Versions
 
+## [v0.0.2](v0.0.2) (2025-07-02)
+
+### Release Goal
+Prepare the Initiative system for serialization.
+
+### Improvements
+- The winning faction is now represented by its color rather than a numeric identifier.
+
 ## [v0.0.1](v0.0.1) (2025-06-26)
 
 ### Release Goal
