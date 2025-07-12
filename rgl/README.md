@@ -1,9 +1,9 @@
 # Versions
 
-## v0.1.0
+## [v0.1.0](v0.1.0)
 
 ### Release Goals
-- Conduct testing of the initiative queue through visual display and expanded battle scenarios.
+- Conduct testing of the initiative queue through visual display and different battle scenes.
 - Develop and prepare serialization utility modules for future integration.
 
 ### Features
