@@ -6,10 +6,6 @@
 - Show unit max health
 - Enhance unit hover highlights
 
-### Features
-- Units in the move queue are color-coded according to their faction.
-- Units are highlighted on the map and in the queue when hovered over.
-
 ## [v0.1.1](v0.1.1) (2025-07-20)
 
 ### Features
