@@ -1,5 +1,22 @@
 # Versions
 
+## [v0.2.0](v0.2.0) (2025-07-31)
+
+### Features
+
+**Movement**
+- Unit speed defines how many steps a unit can take per turn
+- Orthogonal and diagonal moves cost 1 tile
+- Movement is limited to one adjacent tile per action
+
+**Actions**
+- Attack automatically ends current unit turn
+- *End Turn* button
+
+**Map Layout**
+- Increase tile size
+- Grid lines
+
 ## [v0.1.2](v0.1.2) (2025-07-23)
 
 ### Improvement
