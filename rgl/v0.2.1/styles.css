@@ -1,0 +1,103 @@
+* {
+  font-family: Tahoma, Geneva, Verdana, sans-serif;
+}
+
+.field {
+  display: flex;
+  flex-wrap: wrap;
+  border: 1px solid #aaa;
+}
+
+.field span {
+  pointer-events: none;
+}
+
+.field div {
+  display: flex;
+  width: 48px;
+  height: 48px;
+  align-items: center;
+  justify-content: center;
+}
+
+.field .active {
+  font-weight: bold;
+}
+
+.field .right-border {
+  border-right: 1px solid #aaa;
+}
+
+.field .bottom-border {
+  border-bottom: 1px solid #aaa;
+}
+
+.field,
+.units-queue {
+  user-select: none;
+  cursor: default;
+}
+
+.field div,
+.units-queue div {
+  font-size: 40px;
+}
+
+.field .highlighted,
+.units-queue .highlighted,
+.field .unit:hover,
+.units-queue .unit:hover {
+  text-decoration: underline;
+}
+
+.faction-0 {
+  color: red;
+}
+
+.faction-1 {
+  color: blue;
+}
+
+.bottom-panel {
+  display: flex;
+  align-items: center;
+}
+
+.bottom-panel button {
+  height: 36px;
+  align-self: flex-end;
+}
+
+.units-queue {
+  display: flex;
+  flex-direction: row;
+}
+
+.units-queue div {
+  padding: 0 6px;
+}
+
+#version {
+  position: fixed;
+  bottom: 0;
+  right: 0;
+  margin: 6px;
+}
+
+.shake-animate {
+  animation: shake 0.2s;
+}
+
+@keyframes shake {
+  0% { transform: translate(1px, 1px) rotate(0deg); }
+  10% { transform: translate(-1px, -2px) rotate(-1deg); }
+  20% { transform: translate(-3px, 0px) rotate(1deg); }
+  30% { transform: translate(3px, 2px) rotate(0deg); }
+  40% { transform: translate(1px, -1px) rotate(1deg); }
+  50% { transform: translate(-1px, 2px) rotate(-1deg); }
+  60% { transform: translate(-3px, 1px) rotate(0deg); }
+  70% { transform: translate(3px, 1px) rotate(-1deg); }
+  80% { transform: translate(-1px, -1px) rotate(1deg); }
+  90% { transform: translate(1px, 2px) rotate(0deg); }
+  100% { transform: translate(1px, -2px) rotate(-1deg); }
+}
