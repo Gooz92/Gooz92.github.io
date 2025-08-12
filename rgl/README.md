@@ -1,5 +1,10 @@
 # Versions
 
+## [v0.2.1](v0.2.1) (2025-08-12)
+
+### Improvements
+- Error page to display deserialization from url hash issues, as well as other unexpected errors.
+
 ## [v0.2.0](v0.2.0) (2025-07-31)
 
 ### Features
