@@ -2,6 +2,15 @@
 
 Short description of *functional* changes introduced in each version.
 
+## [v0.6.5](v0.6.5) (2026-03-11)
+
+### Fix
+  * City removing
+
+### Improvements
+  * Add map gen demo back
+  * Consistent paddings
+
 ## [v0.6.4](v0.6.4) (2024-07-23)
 
 ### Features
