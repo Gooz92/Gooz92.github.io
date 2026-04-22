@@ -2,6 +2,12 @@
 
 Short description of *functional* changes introduced in each version.
 
+## [v0.6.6](v0.6.6) (2026-04-22)
+
+### Fixes
+  * `Create World Modal` seed validation error now displayed only for generated world
+  * Pillaging/destroying garrisoned city
+
 ## [v0.6.5](v0.6.5) (2026-03-11)
 
 ### Fix
